@@ -20,3 +20,13 @@
 ⚫ Studying Web Development
 
 ⚫ Making 2D Games in C++ and Python
+
+<h2 align="left">Programming Languages I've Studied</h2>
+
+⚪ Java
+
+⚪ Python
+
+⚪ C++
+
+⚪ Racket
