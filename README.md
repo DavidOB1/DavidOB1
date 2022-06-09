@@ -12,21 +12,3 @@
 🏓 Amazing at Ping Pong
 
 ✉️ Email: davidob323@gmail.com
-
-<h2 align="left">Current Interests</h2>
-
-⚫ Natural Language Processing and Deep Learning in Python
-
-⚫ Making 2D Games in C++ and Python
-
-<h2 align="left">Programming Languages I've Studied</h2>
-
-⚪ Java
-
-⚪ Python
-
-⚪ C++
-
-⚪ Racket
-
-⚪ JavaScript
