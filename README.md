@@ -5,7 +5,7 @@
 
 <h2 align="left">About Me</h2>
 
-💻 Second-year CS Major
+💻 Third-year CS Major
 
 🎓 Studying at Northeastern University
 
