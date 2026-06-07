@@ -5,9 +5,9 @@
 
 <h2 align="left">About Me</h2>
 
-💻 Fourth-year CS Major
+💻 Software Engineer
 
-🎓 Studying at Northeastern University
+🎓 CS Degree from Northeastern University
 
 🏓 Amazing at Ping Pong
 
